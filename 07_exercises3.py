@@ -5,7 +5,9 @@
 # Name, Color, Sound
 # 3. Create 3 variables for animal families
 # Example: Birds, Mamals, Reptilies, Fish
-# 4. Print ont the screen 3 animal families
+# 4. Print on the screen 3 animal families
+# Example print("mamals =", mamals)
 # 5. Print on the screen all animals
 # 6. Print on the screen 3 equal animals
 # Example 3 eagles, 3 Bears, 3 Foxes, 3 Dogs
+# Example print("allDogs =", allDogs)

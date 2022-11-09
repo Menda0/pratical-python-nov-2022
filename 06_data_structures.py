@@ -171,3 +171,29 @@ dict3 = {
 }
 
 print(dict3["address"]["postal_code"])
+
+var1 = "Raquel"
+
+var1 = "Diogo"
+
+print("var1 =", var1)
+
+list1 = [1,2,3,4,5,6]
+
+list2 = list1
+
+list3 = list1.copy()
+
+list1.append(7)
+
+print("List1 =", list1)
+print("List2 =", list2)
+
+var2 = "Hugo"
+
+var3 = var2
+
+var2 = "Augusto"
+
+print("var2 =", var2)
+print("var3 =", var3)
