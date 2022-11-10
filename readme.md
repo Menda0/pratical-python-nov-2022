@@ -11,6 +11,9 @@ This is a pratical python testing project
 - [Dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)
 - [If statement](https://www.w3schools.com/python/python_conditions.asp)
 - [Match case](https://learnpython.com/blog/python-match-case-statement/)
+- [While Loops](https://www.w3schools.com/python/python_while_loops.asp)
+- [For loops](https://www.w3schools.com/python/python_for_loops.asp)
+- [Function](https://www.w3schools.com/python/python_functions.asp)
 
 ## Sessions
 - [Session 1](https://us06web.zoom.us/rec/share/PwkDbJb0oBUr9jGmdvxwPs-R3WLJmFy6w23Wc9X3YS3a8TMUOU6OjnRjnl1rcnaH.NnSMWlOh736_jYKh)
