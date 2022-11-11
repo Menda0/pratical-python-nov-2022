@@ -45,8 +45,30 @@ print(multiple_of_2(lista))
 # 4 -> False
 # 5 -> True
 
+### Provided by Fernando Paz ###
+def is_prime_number(num):
+    if num > 1:
+        for i in range(2, num):
+            if (num % i) == 0:
+                return False
+        return True
+    else:
+        return False
+
 # Get the greatest common divisor between two numbers
 # get_gcd(number1, number2)
+
+### Provided by Carlos Lopes ###
+def get_gcd(n1,n2):
+    n=min(n1,n2)
+    i=n
+    while i>1:
+        if n1%i==0 and n2%i==0:
+            return i
+        i-=1
+    return 1
+
+print("get_gcd(48, 60) =", get_gcd(48, 60))
 
 # Seq Fibonnaci
 
@@ -57,3 +79,21 @@ print(multiple_of_2(lista))
 # fib(4) = fib(4-1) + fib(4-2) = fib(3) + fib(2) = 2 + 1 = 3
 # fib(5) = fib(5-1) + fib(5-2) = 2 + 3 = 5
 # fib(n) = fib(n-1) + fib(n-2)
+
+### Provided By Raquel Marques ###
+def fib(n):
+        if n==0:
+            return 0
+        elif n==1:
+            return 1   
+        else:
+            result = fib(n-1) + fib(n-2)
+            return result
+
+# fib(24) = fib(23) -> 1 + fib(22) -> 2
+# 1 -> fib(23) = fib(22) -> 3 + fib(21) -> 4
+# 3 -> fib(22) = fib(21) - fib(20)
+
+# Programacao dinamica
+# Solves the inificient recursion
+# arr_aux = [0,1,2,3,5, ...]
