@@ -16,6 +16,7 @@ This is a pratical python testing project
 - [Function](https://www.w3schools.com/python/python_functions.asp)
 - [Objects](https://www.w3schools.com/python/python_classes.asp)
 - [Inheritance](https://www.w3schools.com/python/python_inheritance.asp)
+- [Multiple Inheritance](https://www.geeksforgeeks.org/multiple-inheritance-in-python/)
 
 ## Sessions
 - [Session 1](https://us06web.zoom.us/rec/share/PwkDbJb0oBUr9jGmdvxwPs-R3WLJmFy6w23Wc9X3YS3a8TMUOU6OjnRjnl1rcnaH.NnSMWlOh736_jYKh)
