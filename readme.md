@@ -14,8 +14,11 @@ This is a pratical python testing project
 - [While Loops](https://www.w3schools.com/python/python_while_loops.asp)
 - [For loops](https://www.w3schools.com/python/python_for_loops.asp)
 - [Function](https://www.w3schools.com/python/python_functions.asp)
+- [Objects](https://www.w3schools.com/python/python_classes.asp)
+- [Inheritance](https://www.w3schools.com/python/python_inheritance.asp)
 
 ## Sessions
 - [Session 1](https://us06web.zoom.us/rec/share/PwkDbJb0oBUr9jGmdvxwPs-R3WLJmFy6w23Wc9X3YS3a8TMUOU6OjnRjnl1rcnaH.NnSMWlOh736_jYKh)
 - [Session 2](https://us06web.zoom.us/rec/share/biU0i68j4mVBenbAoi3Z_MALdfucynnxE5nDb2u_ve2WshnCM181fHlOByHuctmZ.sCG_eLV8B9__xKzj)
 - [Session 3](https://us06web.zoom.us/rec/share/XqOm9HerK_vKwGas5JFmVHUacrjH55A3YZYTA_LjKZPFI7vmL3f94VCJ68Wmgq-_.iuteb0izGtqERT0L)
+- [Session 4](https://us06web.zoom.us/rec/share/qD29e6YSRvJG_DDnzEI5rEL0p9vSpAmg0zTYXBOOODj52hRwxXQfC0ssBNH65dn5.x2BqkjlWX6KqsIIp)
