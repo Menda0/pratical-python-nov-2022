@@ -26,7 +26,7 @@ class Car:
         print(f"My {self.brand} {self.model} just honked ...")
 
     def __repr__(self):
-        return f"This is my car brand:{self.brand} model:{self.model} fuel:{self.fuel}"
+        return f"Car brand:{self.brand} model:{self.model} fuel:{self.fuel}"
 
 # golf = Car()
 # golf.brand = "Volkswagen"
@@ -61,3 +61,29 @@ seat.start()
 seat.honk()
 
 print("tesla =", tesla)
+
+class ElectricCar(Car):
+    def __init__(self, brand, model):
+        super().__init__(brand, model, "eletric")
+
+    def charge(self):
+        print(f"{self} is charging ...")
+
+class DieselCar(Car):
+    def __init__(self, brand, model):
+        super().__init__(brand, model, "diesel")
+
+renault = ElectricCar("renault", "zoe")
+opel = DieselCar("opel", "astra")
+
+
+print("renault =", renault)
+print("opel =", opel)
+
+renault.honk()
+
+renault.charge()
+
+# Cannot to that
+# Undefined method in class DieselCar
+# opel.charge()
