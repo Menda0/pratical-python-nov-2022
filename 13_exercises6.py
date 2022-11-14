@@ -97,3 +97,51 @@ while not sair:
 # (Example: mamal_dog, reptil_cobra, bird_eagle)
 # 5. Make everyone speak
 
+### Provided by Ricardo Alves ### 
+
+class Animal:
+
+    # tipo = "mamifero", "passaro", "reptil", "peixe"
+    # name = "cao","gato","gaivota","cobra","salmao"
+    # som = "auau","miau","aaa", "ssss","splash"
+    tipo = None
+    name = None
+    som = None
+    
+    def __init__(self, tipo, name, som):
+        self.tipo = tipo
+        self.name = name
+        self.som = som
+
+    def speak(self):
+        print(self.name,"=",self.som)
+
+    def __repr__(self):
+        return f"Animal {self.name},{self.tipo},{self.som}"
+
+
+
+class Mamifero(Animal):
+    def __init__(self,name, som):
+        super().__init__("mamifero", name, som)
+
+
+class Bird(Animal):
+    def __init__(self, name, som):
+        super().__init__("passaro", name,som)
+
+    def voar(self):
+        print(f"O {self.name} está a voar.")
+
+
+
+
+    
+cao3 = Mamifero("cookie", "auau")
+gato2 = Mamifero("tareco", "miau")
+passaro = Bird("xico", "piu piu",)
+print(cao3)
+print(passaro)
+passaro.voar()
+cao3.speak()
+gato2.speak()
