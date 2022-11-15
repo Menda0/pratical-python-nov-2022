@@ -11,6 +11,7 @@ from module_example.domain.EletricCar import ElectricCar
 # from module_example import circle_area
 import module_example
 
+# pip install requests
 import requests
 
 print("fib(24) =", fib(24))
