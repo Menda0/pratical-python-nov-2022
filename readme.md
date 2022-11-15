@@ -21,8 +21,12 @@ This is a pratical python testing project
 - [Python Modules](https://www.w3schools.com/python/python_modules.asp)
 - [Pypi Org](https://pypi.org/)
 - [Python CSV Module](https://docs.python.org/3/library/csv.html)
+- [Virtual Env](https://docs.python.org/3/library/venv.html)
+- [Pipenv](https://pipenv.pypa.io/en/latest/)
+
 
 ## Sessions
+- [Slides](https://docs.google.com/presentation/d/1S5fQpqg3EaLlo0Yy8iHslC5VL7zPIOBQNBLVUMSJACY/edit?usp=share_link)
 - [Session 1](https://us06web.zoom.us/rec/share/PwkDbJb0oBUr9jGmdvxwPs-R3WLJmFy6w23Wc9X3YS3a8TMUOU6OjnRjnl1rcnaH.NnSMWlOh736_jYKh)
 - [Session 2](https://us06web.zoom.us/rec/share/biU0i68j4mVBenbAoi3Z_MALdfucynnxE5nDb2u_ve2WshnCM181fHlOByHuctmZ.sCG_eLV8B9__xKzj)
 - [Session 3](https://us06web.zoom.us/rec/share/XqOm9HerK_vKwGas5JFmVHUacrjH55A3YZYTA_LjKZPFI7vmL3f94VCJ68Wmgq-_.iuteb0izGtqERT0L)
