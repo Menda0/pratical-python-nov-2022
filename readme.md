@@ -33,3 +33,4 @@ This is a pratical python testing project
 - [Session 4](https://us06web.zoom.us/rec/share/qD29e6YSRvJG_DDnzEI5rEL0p9vSpAmg0zTYXBOOODj52hRwxXQfC0ssBNH65dn5.x2BqkjlWX6KqsIIp)
 - [Session 5](https://us06web.zoom.us/rec/share/qr9nYA_fKDW8oDnY4iGHzHlPml_H-H3ECf_iFf5fIxqbZcahchlnsuL8b1X0JPR4.acshDJqFPFZ89MqQ)
 - [Session 7](https://us06web.zoom.us/rec/share/ZlGe8a6rMAl73UMq-VHiYPn9JxWdSopY4wDn7OA4vPa9W-9WP-Bw-26uH18QfKaM.d7jXzopzcaWSkmad)
+- [Session 8](https://us06web.zoom.us/rec/share/mQhpmImzeZvSOmXoeRBSg9RNNgZfUz2i7roTHIiuYwuCSp8R9ihf4g-RtVPbUgBc.xyecPt3GqaCCEL76)
